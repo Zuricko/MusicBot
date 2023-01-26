@@ -511,7 +511,7 @@ class ConfigDefaults:
     usealias = True
     searchlist = False
     defaultsearchresults = 3
-    footer_text = "Just-Some-Bots/MusicBot ({})".format(BOTVERSION)
+    footer_text = "Zuricko/MusicBot ({})".format(BOTVERSION)
 
     options_file = "config/options.ini"
     blacklist_file = "config/blacklist.txt"
